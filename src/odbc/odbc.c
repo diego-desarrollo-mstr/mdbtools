@@ -1,5 +1,6 @@
-/* MDB Tools - A library for reading MS Access database file
- * Copyright (C) 2000 Brian Bruns
+/* Based in MDB Tools Please send bug repports to the new github platform.
+ * MDB author Brian Bruns brian@bruns.com- A library for reading MS Access database file
+ * Copyright (C) 2018 Diego Londono
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Library General Public
